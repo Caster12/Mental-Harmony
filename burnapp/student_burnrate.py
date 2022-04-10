@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 from PIL import Image
-image = Image.open('/Users/ashwinv/Documents/GitHub/burnapp/imgs/banner.webp')
+image = Image.open('/Users/ashwinv/Documents/GitHub/burnapp/imgs/student.png')
 
 st.image(image)
 
